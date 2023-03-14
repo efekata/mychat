@@ -1,0 +1,10 @@
+body{color:blue;
+    background-color:grey
+;}
+h2{color: darkgreen;
+}
+form a{
+    text-decoration: none;
+    background: grey;
+    padding: 10px 20px;
+}
