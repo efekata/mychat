@@ -1,10 +1,20 @@
-body{color:blue;
-    background-color:grey
-;}
-h2{color: darkgreen;
+h1{
+    justify-content: right 0;
+    border-right: 20px;
+    color: blueviolet;
+    align-content: left;
+    background-color: brown;
+    float: right;
 }
-form a{
-    text-decoration: none;
-    background: grey;
-    padding: 10px 20px;
+form{
+    background-color:dimgrey;
+    height: 100%;
+}
+img{
+    height: 300px;
+    float: right;
+
+}
+body{
+    background-color:whitesmoke;
 }
