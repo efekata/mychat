@@ -3,18 +3,20 @@ h1{
     border-right: 20px;
     color: blueviolet;
     align-content: left;
-    background-color: brown;
-    float: right;
+    background-color:wheat;
+    padding: 5px;
 }
 form{
-    background-color:dimgrey;
-    height: 100%;
+    background-color: blueviolet;
+    height: 400px;
+    width: 250px;
+    margin: 20px;
+    padding: 20px;
 }
-img{
-    height: 300px;
-    float: right;
-
+.form-center{
+    display: flex;
+    justify-content: center;
 }
 body{
-    background-color:whitesmoke;
+    background-color: black;
 }
